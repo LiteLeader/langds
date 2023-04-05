@@ -612,7 +612,7 @@ PROFILE_GUI_ITEM_LORE:
 - ' §8▪ §fУровень: §b%s'
 - ' §8▪ §fДрузей: §e%s§8/§a%s'
 - ' §8▪ §fТитул: §c%s'
-- ''
+- '%s%s%s%s%s%s%s%s%s%s%s%s%s%s'
 
 LEVEL_GUI_ITEM_NAME: '§6§lУровень'
 LEVEL_GUI_ITEM_LORE:
